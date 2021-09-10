@@ -1,6 +1,5 @@
 # SkillSearch - Django web app
-A platform that connects recruiters and developers in one place. 
-This also allows developers to build a profile to showcase their skills and projects.
+A platform that helps recruiter to connect with developers of different skillset where developers can build a profile to showcase their skills and projects.
 
 
  
