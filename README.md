@@ -25,4 +25,4 @@
 * Create, update and delete your projects
 * Review and comment on other's projects
 * Send messages to developers and read your inbox messages
-* Reset password to your account via email
+* Reset password to your account via gmail
